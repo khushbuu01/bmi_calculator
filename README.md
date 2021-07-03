@@ -1,1 +1,2 @@
-# BMI Calculator using Flutter
+# BMI Calculator
+Flutter Project
